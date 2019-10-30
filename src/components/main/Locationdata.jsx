@@ -86,9 +86,8 @@ class Locationdata extends Component
     {
 
 
-                let r=this.state.lists;                    
-     
-               let date=require('dateformat'); 
+                let r=this.state.lists;                   
+               let date=require('dateformat');
 
     return(
 

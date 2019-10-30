@@ -63,15 +63,15 @@ Handling = () =>
      <div id="navi">
      <div className="sidenav">
                     
-                       <a href="#Home" id="homebtn" onClick={this.Handling} >Home</a>
+                       <a id="homebtn" href="#home" onClick={this.Handling} >Home</a>
                     
                    
-                     <a href="#Locationid?" id="locbtn" onClick={this.Handlingg}>Locations</a>
+                     <a  id="locbtn" href="#locations" onClick={this.Handlingg}>Locations</a>
                      
                     </div>
     </div>
 
-
+    
 
      <div id="main">
      {
